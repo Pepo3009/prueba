@@ -7,9 +7,10 @@
 
 ## Evidencia2
 ## Commits
-
+.[](./img/Commit.png)
 
 ## Github - Actuions
-
+.[](./img/evidencia2.png)
 
 ## Version
+.[](./img/Dockerhub2.png)
